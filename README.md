@@ -212,10 +212,11 @@ AI-Powered-Social-Media-Engagement-Dashboard/
 │   └── AI_Social_Media_Dashboard.xlsx
 │
 ├── screenshots/
-│   └── dashboard_overview.png
+│   └── dashboard_overview_1.png
+│   └── dashboard_overview_2.png
+│   └── dashboard_overview_3.png
 │
 ├── reports/
-│   ├── Social_Media_Insights_Report.md
 │   └── Strategic_Recommendations_Report.docx
 │
 ├── ai_prompts/
@@ -223,7 +224,7 @@ AI-Powered-Social-Media-Engagement-Dashboard/
 │   └── RefreshDashboard.bas
 │
 ├── README.md
-└── Project_Guide_GitHub_LinkedIn.md
+
 ```
 
 ---
@@ -237,6 +238,8 @@ macro for dashboard refresh).
 ---
 
 ## Author
+
+Debarati Pal
 
 Built as a portfolio project demonstrating digital marketing
 analytics, AI-powered content analysis, and dashboard design skills
